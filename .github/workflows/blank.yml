@@ -1,0 +1,247 @@
+{ 
+
+"Version" : "2.1.10", 
+
+"ReleaseNotes" : "Bem vindos a familia coliseu zeuz e adriano net! Atualize pfv !!!", 
+
+"UrlUpdate" : "https://bitbin.it/O41MvTwr/raw/", 
+
+"Sms" : "https://bitbin.it/iLD0DecJ/raw/", 
+
+"UrlContato" : "telegram @zeuzrj21", 
+
+"UrlTermos" : "https://kiritosshxd.github.io/Conecta4g_site/termos.html", 
+
+"CheckUser" : "true", 
+
+"Udp" : [ 
+
+{ 
+
+"Porta" : "7300" 
+
+}, 
+
+{ 
+
+"Porta" : "7400" 
+
+}, 
+
+{ 
+
+"Porta" : "7500" 
+
+}, 
+
+{ 
+
+"Porta" : "7600" 
+
+}, 
+
+{ 
+
+"Porta" : "7700" 
+
+}, 
+
+{ 
+
+"Porta" : "7800" 
+
+}, 
+
+{ 
+
+"Porta" : "7900" 
+
+}], 
+
+"Servers" : [ 
+
+{ 
+
+"Name" : "Servidor 01", 
+
+"TYPE" : "premium", 
+
+"FLAG" : "br.png", 
+
+"ServerIP" : "186.233.119.50", 
+
+"CheckUser" : "http://186.233.119.50:8182/checkUser", 
+
+"ServerPort" : "22", 
+
+"SSLPort" : "443", 
+
+"USER" : "", 
+
+"PASS" : "" 
+
+}], 
+
+"Networks" : [ 
+
+{ 
+
+"Name" : "tim e vivo e claro bolsonaro", 
+
+"FLAG" : "tim", 
+
+"Payload" : "BASELINE-CONTROL wss://songbird.cardinalcommerce.com/ HTTP/1.1[crlf]Host: zeuzlatrel.shop[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Referer: tim.br[crlf][crlf]", 
+
+"SNI" : "songbird.cardinalcommerce.com", 
+
+"TlsIP" : "songbird.cardinalcommerce.com", 
+
+"ProxyIP" : "songbird.cardinalcommerce.com", 
+
+"ProxyPort" : "443", 
+
+"Info" : "Tlsws" 
+
+}, 
+
+{ 
+
+"Name" : "♠︎ vivo friend", 
+
+"FLAG" : "vivo", 
+
+"Payload" : "GET / HTTP/1.1[crlf]Host: zeuzlatrel.shop[crlf]Upgrade: Websocket[crlf][crlf]", 
+
+"SNI" : "", 
+
+"TlsIP" : "", 
+
+"ProxyIP" : "198.217.251.251", 
+
+"ProxyPort" : "80", 
+
+"Info" : "Proxy" 
+
+}, 
+
+{ 
+
+"Name": "🔵TIM COLISEU🔵", 
+
+"FLAG": "tim", 
+
+"Payload": "BASELINE-CONTROL wss://api.sandbox.c6bank.com.br/ HTTP/1.1[crlf]Host: zeuzlatrel.shop[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Referer: google.com[crlf][crlf]", 
+
+"SNI": "api.sandbox.c6bank.com.br", 
+
+"TlsIP": "104.18.28.182", 
+
+"ProxyIP": "", 
+
+"ProxyPort": "443", 
+
+"Info": "Tlsws" 
+
+}, 
+
+{ 
+
+"Name": "🔴CLARO COM VALIDADE DE CREDITOS🔴", 
+
+"FLAG": "claro", 
+
+"Payload": "BASELINE-CONTROL wss://minhaclaronxt.claro.com.br/ HTTP/1.1[crlf]Host: zeuzlatrel.shop[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Referer: google.com[crlf][crlf]", 
+
+"SNI": "minhaclaronxt.claro.com.br", 
+
+"TlsIP": "192.229.162.2", 
+
+"ProxyIP": "", 
+
+"ProxyPort": "443", 
+
+"Info": "Tlsws" 
+
+}, 
+
+{ 
+
+"Name": "ZEUZ TODAS OPERADORAS", 
+
+"FLAG": "tim", 
+
+"Payload": "ZEUZ-SPEED-CONNECT wss://songbird.cardinalcommerce.com/ HTTP/1.1[crlf]Host: zeuzlatrel.shop [crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Referer: google.com[crlf][crlf]", 
+
+"SNI": "songbird.cardinalcommerce.com" 
+
+"TlsIP": "songbird.cardinalcommerce.com", 
+
+"ProxyIP": "songbird.cardinalcommerce.com", 
+
+"ProxyPort": "443", 
+
+"Info": "Tlsws" 
+
+}, 
+
+{ 
+
+"Name": "OI", 
+
+"FLAG": "oi", 
+
+"Payload": "BASELINE-CONTROL wss://www.hbogo.com.br/ HTTP/1.1[crlf]Host: zeuzlatrel.shop[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Referer: google.com[crlf][crlf]", 
+
+"SNI": "www.hbogo.com.br" 
+
+"TlsIP": "www.hbogo.com.br", 
+
+"ProxyIP": "www.hbogo.com.br", 
+
+"ProxyPort": "443", 
+
+"Info": "Tlsws" 
+
+}, 
+
+{ 
+
+"Name": "CLARO zeuz", 
+
+"FLAG": "claro", 
+
+"Payload": "BASELINE-CONTROL wss://smainfo.surveymonkey.com/ HTTP/1.1[crlf]Host: zeuzlatrel.shop[crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket;Access-Control-Request-Method: BASELINE-CONTROL;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]", 
+
+"SNI": "smainfo.surveymonkey.com", 
+
+"TlsIP": "104.16.51.111", 
+
+"ProxyIP": "", 
+
+"ProxyPort": "443", 
+
+"Info": "Tlsws" 
+
+}, 
+
+{ 
+
+"Name": "OI zeuz", 
+
+"FLAG": "OI", 
+
+"Payload": "BASELINE-CONTROL wss://smainfo.surveymonkey.com/ HTTP/1.1[crlf]Host: zeuzlatrel.shop[crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket;Access-Control-Request-Method: BASELINE-CONTROL;Access-Control-Allow-Origin: *;Save-Data: no;Connection: keep-alive;Keep-Alive: timeout=43200, max=71200;Cache-control: public max-age=16777216 immutable;Content-Length: 16777216;Upgrade-Insecure-Requests: 1/n/n[crlf][crlf]", 
+
+"SNI": "smainfo.surveymonkey.com", 
+
+"TlsIP": "104.16.51.111", 
+
+"ProxyIP": "", 
+
+"ProxyPort": "443", 
+
+"Info": "Tlsws" 
+
+}] 
+
+}
